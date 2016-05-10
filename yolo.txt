@@ -1,0 +1,22 @@
+git init
+	Initialise
+git add
+	______
+git commit
+	________
+	
+git add	
+	________
+	
+git status
+
+	________
+git diff	
+	
+	
+git clone
+	
+	
+	
+	
+	
